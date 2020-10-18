@@ -6,7 +6,7 @@ Swift class to convert pollutant concentration values to AQI
 
 ```swift
 debugPrint("concentration: 15.70 => \(AQIUtils.pm10_aqi(concentration: 15.70))")
-// "concentration: 15.70 => AQIResult(aqi: 15, category: Good, pollutant: PM 10)"
+// "concentration: 15.70 => AQIResult(aqi: 15, category: Good, pollutant: PM10)"
 ```
 
 ```swift

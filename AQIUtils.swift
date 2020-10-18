@@ -14,7 +14,7 @@ class AQIUtils {
     
     case unknown = "Unknown"
     case pm2p5 = "PM2.5"
-    case pm10 = "PM 10"
+    case pm10 = "PM10"
     case co = "Carbon Monoxide"
     case so2 = "Sulfur Dioxide"
 
